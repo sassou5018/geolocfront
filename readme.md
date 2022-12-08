@@ -1,6 +1,7 @@
  ### Simple GeoLocalization App
  Save businesses and places of interest through /create
  Find places near you through /get
+ 
  [Live Demo](https://geolocsoa.netlify.app)
  
 #### Front End Built With:
