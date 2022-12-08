@@ -13,6 +13,7 @@
  - ASP.NET Core
  - Postgresql
  - Hosted on Azure App Service [here](https://geolocation20221206225938.azurewebsites.net/api/GeoLocs) (Index route is empty)
+
 Back-end can be found [here](https://github.com/melekhomrani/GeoLocation): (repo link)
 
 
