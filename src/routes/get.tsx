@@ -89,7 +89,7 @@ export default function Get() {
         console.log(mutation.data);
         locationElems = mutation.data.map((location:any, index:any) => {
             return(
-                <Marker key={index} position={[location.latitude, location.longitude]} eventHandlers={{click: (e)=>{handlePinClick(location)}}}
+                <Marker key={index} position={[location.latitude, location.longitude]} icon={myIcon} eventHandlers={{click: (e)=>{handlePinClick(location)}}}
                 />
             )
         })
