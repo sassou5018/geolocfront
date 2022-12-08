@@ -12,7 +12,7 @@ function App() {
         <Link href='/create'>
         <Button colorScheme="purple">Create New Location</Button>
         </Link>
-        <Link href='#'>
+        <Link href='/get'>
         <Button colorScheme="yellow">Get Locations Around Me</Button>
         </Link>
       </HStack>
